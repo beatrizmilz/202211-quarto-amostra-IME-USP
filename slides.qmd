@@ -1,0 +1,11 @@
+---
+title: "Slides"
+author: "Beatriz Milz & R-Ladies São Paulo"
+format: html
+editor: visual
+---
+
+| Slide                                                                   |
+|------------------------------------------------------------------------|
+| [Conhecendo as R-Ladies São Paulo](slide-rladies.qmd){target="_blank"}  |
+| [Introdução ao Quarto](slide-quarto.qmd){target="_blank"} |

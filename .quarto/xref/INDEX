@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "f5ebb00d"
+  },
+  "about.qmd": {
+    "about.html": "227964cf"
+  },
+  "slide-rladies.qmd": {
+    "slide-rladies.html": "d18ebfd1"
+  },
+  "speaker.qmd": {
+    "speaker.html": "483caef0"
+  },
+  "slides.qmd": {
+    "slides.html": "dce32128"
+  },
+  "slide-quarto.qmd": {
+    "slide-quarto.html": "cbddd7dc"
+  }
+}

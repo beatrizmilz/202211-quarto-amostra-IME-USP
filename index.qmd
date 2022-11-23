@@ -1,0 +1,51 @@
+---
+title: "Quarto - A nova geração do RMarkdown"
+author: "Beatriz Milz: R-Ladies São Paulo & Curso-R"
+format: html
+editor: visual
+---
+
+## Boas vindas!
+
+O mini curso será uma [introdução ao Quarto](https://quarto.org/), a nova geração de RMarkdown!
+
+O Quarto é um software de escrita técnica e científica que possibilita criar documentos reprodutíveis com R, como: listas de exercícios, relatórios, apresentações, sites simples apresentando as análises, entre outros.
+
+Um importante avanço do Quarto em relação ao RMarkdown é não depender do R, portanto é possível usar com Python, por exemplo.
+
+## Siga a R-Ladies São Paulo!
+
+-   Anúncios:
+
+    -   Último dia para se inscrever na [oficina de introdução ao R](https://www.meetup.com/rladies-sao-paulo/events/289755187/)!
+
+-   [Meetup](https://www.meetup.com/rladies-sao-paulo/)
+
+-   [Youtube](https://www.youtube.com/c/RLadiesS%C3%A3oPaulo)
+
+-   [Twitter](https://twitter.com/RLadiesSaoPaulo)
+
+-   [Instagram](https://instagram.com/rladiessaopaulo)
+
+## Siga a Curso-R!
+
+[![](https://blog.curso-r.com/images/logo.webp){fig-alt="Logo da Curso-R" fig-align="center" width="30%"}](https://curso-r.com/)
+
+-   Anúncios:
+
+    -   Tá rolando a [BlackWeek](https://www.instagram.com/p/ClOxJmIMoJ1/)!
+    -   [Bolsas de diversidade para 2023](https://forms.gle/ejoanQgRfQzRqToq9)!
+    -   Lives nos próximos dias:
+        -   24/11 - 19h00 - [Visualização de dados: o que funciona e o que não funciona](https://www.youtube.com/watch?v=tfIf5P71wpg)
+        -   25/11 - 19h00 - [O que as pesquisas eleitorais podem ensinar a todos os cientistas de dados? Com Raphael Nishimura](https://www.youtube.com/watch?v=rURRGBlUMDI)            
+        -   28/11 - 19h00 - [O mercado de ciência de dados e você com Téo Calvo](https://www.youtube.com/watch?v=r0_qxc2vymo)
+        -   29/11 - 19h00 - [Dicas da psicologia para potencializar seus estudos em Ciência de Dados com Altay Lino de Souza](https://www.youtube.com/watch?v=GfkqhZQj9II)        
+    
+
+-   [Todos os links!](https://curso-r.com/links/)
+
+-   [Youtube](https://www.youtube.com/channel/UCTXuqtCYxPVEehq6fJY9GkA)
+
+-   [Twitter](https://twitter.com/curso_r)
+
+-   [Instagram](https://www.instagram.com/cursoo_r/)

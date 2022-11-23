@@ -1,0 +1,387 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto - A nova geração do RMarkdown",
+    "section": "",
+    "text": "O mini curso será uma introdução ao Quarto, a nova geração de RMarkdown!\nO Quarto é um software de escrita técnica e científica que possibilita criar documentos reprodutíveis com R, como: listas de exercícios, relatórios, apresentações, sites simples apresentando as análises, entre outros.\nUm importante avanço do Quarto em relação ao RMarkdown é não depender do R, portanto é possível usar com Python, por exemplo."
+  },
+  {
+    "objectID": "index.html#apoio",
+    "href": "index.html#apoio",
+    "title": "Quarto - A nova geração do RMarkdown",
+    "section": "Apoio",
+    "text": "Apoio"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "slide-rladies.html#o-que-é-a-r-ladies",
+    "href": "slide-rladies.html#o-que-é-a-r-ladies",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "O que é a R-Ladies?",
+    "text": "O que é a R-Ladies?\nR-Ladies é uma organização mundial cuja missão é promover a diversidade de gênero na comunidade da linguagem R.\nR-Ladies São Paulo integra, orgulhosamente, a organização R-Ladies Global, em São Paulo."
+  },
+  {
+    "objectID": "slide-rladies.html#como",
+    "href": "slide-rladies.html#como",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Como?",
+    "text": "Como?\nAtravés de meetups e mentorias em um ambiente seguro e amigável.\nNosso principal objetivo é promover a linguagem computacional estatística R compartilhando conhecimento, assim, quem tiver interesse na linguagem será bem-vinda, independente do nível de conhecimento.\n\nFonte: About us - R-Ladies, Meetup - São Paulo"
+  },
+  {
+    "objectID": "slide-rladies.html#para-quem",
+    "href": "slide-rladies.html#para-quem",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Para quem?",
+    "text": "Para quem?\nNosso principal público-alvo são as pessoas que se identificam com gêneros sub-representados na comunidade R, portanto: mulheres cis, mulheres trans, homens trans, pessoas não-binárias e queer."
+  },
+  {
+    "objectID": "slide-rladies.html#missão",
+    "href": "slide-rladies.html#missão",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Missão",
+    "text": "Missão\nComo uma iniciativa de diversidade, a missão das R-Ladies é alcançar uma representação proporcional de pessoas de gêneros atualmente sub-representados na comunidade R, incentivando, inspirando e capacitando-as."
+  },
+  {
+    "objectID": "slide-rladies.html#código-de-conduta",
+    "href": "slide-rladies.html#código-de-conduta",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Código de conduta",
+    "text": "Código de conduta\nA R-Ladies dedica-se a proporcionar uma experiência livre de assédio para todas as pessoas partcicipantes, desta forma, não é tolerada nenhuma forma de assédio. Código de conduta - R-Ladies\n\nFonte: About us - R-Ladies, Meetup - São Paulo\n\n\nAtualizado em: 11/2022. Fonte: R Community Explorer"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies---capítulos-no-mundo",
+    "href": "slide-rladies.html#r-ladies---capítulos-no-mundo",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies - Capítulos no mundo",
+    "text": "R-Ladies - Capítulos no mundo\n\n\n\n\n\nRegião\nNúmero de Capítulos\nTotal de participantes\n\n\n\n\nUS/Canada\n59\n30112\n\n\nLatin America\n58\n27774\n\n\nEurope\n57\n25056\n\n\nAsia\n19\n5806\n\n\nAfrica\n12\n5688\n\n\nAustralia\n10\n5371\n\n\nPacific/Galapagos\n1\n460\n\n\n\n\n\n\nAtualizado em: 11/2022. Fonte: R Community Explorer"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies-no-brasil",
+    "href": "slide-rladies.html#r-ladies-no-brasil",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies no Brasil",
+    "text": "R-Ladies no Brasil\n\n\n\n\n\n\n\n\n\n\n\n\nCapítulo\nParticipantes\n\n\n\n\nR-Ladies São Paulo\n1340\n\n\nR-Ladies Belo Horizonte\n894\n\n\nR-Ladies Niterói\n760\n\n\nR-Ladies Rio de Janeiro\n644\n\n\nR-Ladies Natal\n456\n\n\nR-Ladies Floripa\n448\n\n\nR-Ladies Goiânia\n417\n\n\nR-Ladies Porto Alegre\n362\n\n\nR-Ladies Salvador\n246\n\n\n\n\n\n\nAtualizado em: 11/2022. Fonte: R Community Explorer"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies-no-brasil-1",
+    "href": "slide-rladies.html#r-ladies-no-brasil-1",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies no Brasil",
+    "text": "R-Ladies no Brasil\n\n\n\n\n\n\n\n\n\nCapítulo\nParticipantes\n\n\n\n\nR-Ladies Vitória\n218\n\n\nR-Ladies Recife\n153\n\n\nR-Ladies Fortaleza\n112\n\n\nR-Ladies Lavras\n66\n\n\nR-Ladies Curitiba\n63\n\n\nR-Ladies Brasília\n61\n\n\nR-Ladies São Mateus\n10\n\n\n\n\n\n\nAtualizado em: 11/2022. Fonte: R Community Explorer"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies-em-são-paulo",
+    "href": "slide-rladies.html#r-ladies-em-são-paulo",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies em São Paulo",
+    "text": "R-Ladies em São Paulo\n\n\nPrimeiro encontro da R-Ladies São Paulo - 2018\n+ 1340 pessoas participantes - 11/2022"
+  },
+  {
+    "objectID": "slide-rladies.html#saiba-mais-sobre-a-r-ladies",
+    "href": "slide-rladies.html#saiba-mais-sobre-a-r-ladies",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Saiba mais sobre a R-Ladies",
+    "text": "Saiba mais sobre a R-Ladies\n\nR-Ladies Global: Website,  Twitter\nR-Ladies São Paulo:\n\n Twitter\n Instagram\n Facebook\n Meetup\n GitHub\n Youtube\n\nCapítulos da R-Ladies no Brasil - Não tem capítulo na sua cidade e quer iniciar um? Saiba como em R-Ladies - How do get involved!\n\n\n\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
+  },
+  {
+    "objectID": "index.html#siga-a-r-ladies-são-paulo",
+    "href": "index.html#siga-a-r-ladies-são-paulo",
+    "title": "Quarto - A nova geração do RMarkdown",
+    "section": "Siga a R-Ladies São Paulo!",
+    "text": "Siga a R-Ladies São Paulo!\n\nAnúncios:\n\nÚltimo dia para se inscrever na oficina de introdução ao R!\n\nMeetup\nYoutube\nTwitter\nInstagram"
+  },
+  {
+    "objectID": "index.html#siga-a-curso-r",
+    "href": "index.html#siga-a-curso-r",
+    "title": "Quarto - A nova geração do RMarkdown",
+    "section": "Siga a Curso-R!",
+    "text": "Siga a Curso-R!\n\n\n\n\n\n\nAnúncios:\n\nTá rolando a BlackWeek!\nBolsas de diversidade para 2023!\nLives nos próximos dias:\n\n24/11 - 19h00 - Visualização de dados: o que funciona e o que não funciona\n25/11 - 19h00 - O que as pesquisas eleitorais podem ensinar a todos os cientistas de dados? Com Raphael Nishimura\n\n28/11 - 19h00 - O mercado de ciência de dados e você com Téo Calvo\n29/11 - 19h00 - Dicas da psicologia para potencializar seus estudos em Ciência de Dados com Altay Lino de Souza\n\n\nTodos os links!\nYoutube\nTwitter\nInstagram"
+  },
+  {
+    "objectID": "speaker.html",
+    "href": "speaker.html",
+    "title": "Palestrante",
+    "section": "",
+    "text": "Beatriz is a Data Scientist and a R teacher at Curso-R. She is an R-Lady from São Paulo - Brazil.\nBea is a tidyverse instructor certified by RStudio, an international speaker (speaking at events such as RStudio Conference, Python Brasil, useR, and LatinR), and has written about programming in R in her blog since 2019.\nIn addition, she co-organizes communities and events, such as R-Ladies São Paulo, Latin-R, and satRday São Paulo.\nHer favorite GitHub feature is GitHub Actions!"
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides",
+    "section": "",
+    "text": "Slide\n\n\n\n\nConhecendo as R-Ladies São Paulo\n\n\nIntrodução ao Quarto"
+  },
+  {
+    "objectID": "slide-quarto.html#beatriz-milz",
+    "href": "slide-quarto.html#beatriz-milz",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Beatriz Milz 🇧🇷",
+    "text": "Beatriz Milz 🇧🇷\n\n\n\nContato\n\nTwitter: @BeaMilz\nBlog: beamilz.com\n\nSobre mim\n\nCo-organizadora: R-Ladies São Paulo / Latin-R / satRday São Paulo\nProfessora na Curso-R, consultora na R6\nInstrutora de Tidyverse certificada pela RStudio"
+  },
+  {
+    "objectID": "slide-quarto.html#faremos-muita-prática",
+    "href": "slide-quarto.html#faremos-muita-prática",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Faremos muita prática!",
+    "text": "Faremos muita prática!\n\n\nArte por Allison Horst"
+  },
+  {
+    "objectID": "slide-quarto.html#tem-novidades-surgindo-com-frequência",
+    "href": "slide-quarto.html#tem-novidades-surgindo-com-frequência",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Tem novidades surgindo com frequência!",
+    "text": "Tem novidades surgindo com frequência!\n\n\nArte por Allison Horst"
+  },
+  {
+    "objectID": "slide-quarto.html#seria-o-quarto",
+    "href": "slide-quarto.html#seria-o-quarto",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Seria o Quarto…",
+    "text": "Seria o Quarto…"
+  },
+  {
+    "objectID": "slide-quarto.html#o-que-é-o-quarto-1",
+    "href": "slide-quarto.html#o-que-é-o-quarto-1",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "O que é o Quarto?",
+    "text": "O que é o Quarto?\n\nO Quarto é um sistema de escrita técnica e científica, de código aberto.\n\n\nA schematic representing the multi-language input (e.g. Python, R, Observable, Julia) and multi-format output (e.g. PDF, html, Word documents, and more) versatility of Quarto\nArte por Allison Horst."
+  },
+  {
+    "objectID": "slide-quarto.html#por-que-o-quarto-existe",
+    "href": "slide-quarto.html#por-que-o-quarto-existe",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Por que o Quarto existe?",
+    "text": "Por que o Quarto existe?\n\nO Quarto é a nova geração do R Markdown!\nO rmarkdown é um pacote em R. Para usá-lo, é necessário ter o R instalado (mesmo que o seu arquivo não tenha conteúdos em R).\nO R Markdown é uma ferramenta muito boa para escrita técnica e científica reprodutível, possibilitando criar vários tipos de documentos. Porém, o seu uso acaba ficando limitado às pessoas que usam R.\nO Quarto é um software novo, que não depende do R!\n\n\n\nPor exemplo: Você pode usar o VSCode como IDE, escrever um documento com código em Python e gerar o documento final. Tudo isso sem precisar ter o R e/ou RStudio instalados."
+  },
+  {
+    "objectID": "slide-quarto.html#quais-são-as-similaridades",
+    "href": "slide-quarto.html#quais-são-as-similaridades",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Quais são as similaridades?",
+    "text": "Quais são as similaridades?\n\nA estrutura do arquivo é muito similar! Para muitos arquivos, há compatibilidade (bastando alterar a extensão de .Rmd para .qmd).\nPodemos adicionar código em R, Python, Julia, etc etc.\nPodemos criar diversos tipos de arquivos, como: páginas da internet (arquivos .html), PDFs, .docx, apresentações, documentos interativos, livros, e mais está sendo produzido :)"
+  },
+  {
+    "objectID": "slide-quarto.html#como-começar-a-usar-o-quarto",
+    "href": "slide-quarto.html#como-começar-a-usar-o-quarto",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Como começar a usar o quarto",
+    "text": "Como começar a usar o quarto\nInstalar o Quarto:"
+  },
+  {
+    "objectID": "slide-quarto.html#vamos-usar-o-quarto-na-rstudio-cloud",
+    "href": "slide-quarto.html#vamos-usar-o-quarto-na-rstudio-cloud",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Vamos usar o Quarto na RStudio Cloud!",
+    "text": "Vamos usar o Quarto na RStudio Cloud!\n\n\nUse esse link:\n\nbit.ly/3ERoncT\n\nSimilar ao RStudio IDE\nO quarto já vem instalado!"
+  },
+  {
+    "objectID": "slide-quarto.html#engines",
+    "href": "slide-quarto.html#engines",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Engines",
+    "text": "Engines\n\nAo criar um novo arquivo com Quarto, podemos escolher entre duas engines: knitr ou jupyter.\n\nCom knitr\nCaso não tenha o pacote rmarkdown instalado, execute no console:\ninstall.packages(\"rmarkdown\")\n\nCom jupyter\nCaso não tenha o jupyter instalado, execute no terminal:\npython3 -m pip install jupyter"
+  },
+  {
+    "objectID": "slide-quarto.html#criar-novo-arquivo-new-file",
+    "href": "slide-quarto.html#criar-novo-arquivo-new-file",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Criar novo arquivo: New file",
+    "text": "Criar novo arquivo: New file"
+  },
+  {
+    "objectID": "slide-quarto.html#renderizar-o-arquivo-render-file",
+    "href": "slide-quarto.html#renderizar-o-arquivo-render-file",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Renderizar o arquivo: Render file",
+    "text": "Renderizar o arquivo: Render file"
+  },
+  {
+    "objectID": "slide-quarto.html#visual-editor",
+    "href": "slide-quarto.html#visual-editor",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Visual Editor",
+    "text": "Visual Editor\n\n\n\nAs versões mais recentes do RStudio permitem usar o Visual Editor.\n\nLeitura indicada:\n\nExploring RStudio’s Visual Markdown Editor\n\n\n\n\n\n\n\nFonte: RStudio"
+  },
+  {
+    "objectID": "slide-quarto.html#vamos-praticar",
+    "href": "slide-quarto.html#vamos-praticar",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Vamos praticar!",
+    "text": "Vamos praticar!"
+  },
+  {
+    "objectID": "slide-quarto.html#altere-o-cabeçalho-do-arquivo",
+    "href": "slide-quarto.html#altere-o-cabeçalho-do-arquivo",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Altere o cabeçalho do arquivo!",
+    "text": "Altere o cabeçalho do arquivo!\n---\ntitle: \"Título\"\nformat: html\neditor: visual\n---"
+  },
+  {
+    "objectID": "slide-quarto.html#altere-o-cabeçalho-do-arquivo-1",
+    "href": "slide-quarto.html#altere-o-cabeçalho-do-arquivo-1",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Altere o cabeçalho do arquivo",
+    "text": "Altere o cabeçalho do arquivo\n---\ntitle: \"Título\"\nformat: revealjs\neditor: visual\n---\n\nOs slides são separados considerando os títulos e subtítulos: # e ##.\nUse # para criar uma nova seção.\nUse ## para criar um novo slide."
+  },
+  {
+    "objectID": "slide-quarto.html#vamos-praticar-1",
+    "href": "slide-quarto.html#vamos-praticar-1",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Vamos praticar!",
+    "text": "Vamos praticar!"
+  },
+  {
+    "objectID": "slide-quarto.html#algumas-formas",
+    "href": "slide-quarto.html#algumas-formas",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Algumas formas…",
+    "text": "Algumas formas…\n\nGitHub Pages\nNetlify\nQuartoPub"
+  },
+  {
+    "objectID": "slide-quarto.html#primeiros-passos-usando-quarto-na-linha-de-comando",
+    "href": "slide-quarto.html#primeiros-passos-usando-quarto-na-linha-de-comando",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Primeiros passos usando Quarto na linha de comando",
+    "text": "Primeiros passos usando Quarto na linha de comando\n\nO Quarto é um CLI: Command Line Interface - Interface de linha de comando.\nPodemos usar o Quarto no terminal."
+  },
+  {
+    "objectID": "slide-quarto.html#section",
+    "href": "slide-quarto.html#section",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "",
+    "text": "/cloud/project$ quarto help\n\n  Usage:   quarto \n  Version: 1.1.251\n                  \n\n  Description:\n\n    Quarto CLI\n\n  Options:\n\n    -h, --help     - Show this help.                            \n    -V, --version  - Show the version number for this program.  \n\n  Commands:\n\n    render          [input] [args...]   - Render input file(s) to various document types.            \n    preview         [file] [args...]    - Render and preview a document or website project.          \n    serve           [input]             - Serve a Shiny interactive document.                        \n    create-project  [dir]               - Create a project for rendering multiple documents          \n    convert         <input>             - Convert documents to alternate representations.            \n    pandoc          [args...]           - Run the version of Pandoc embedded within Quarto.          \n    run             [script] [args...]  - Run a TypeScript, R, Python, or Lua script.                \n    install         <type> [target]     - Installs an extension or global dependency.                \n    publish         [provider] [path]   - Publish a document or project. Available providers include:\n    check           [target]            - Verify correct functioning of Quarto installation.         \n    help            [command]           - Show this help or the help of a sub-command."
+  },
+  {
+    "objectID": "slide-quarto.html#quartopub",
+    "href": "slide-quarto.html#quartopub",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "QuartoPub",
+    "text": "QuartoPub\n\nVamos disponibilizar nossa apresentação no QuartoPub: https://quartopub.com/\nNo terminal, usar o comando quarto publish quarto-pub nome-do-arquivo.qmd e seguir o passo a passo (no slide seguinte temos um exemplo)."
+  },
+  {
+    "objectID": "slide-quarto.html#section-1",
+    "href": "slide-quarto.html#section-1",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "",
+    "text": "/cloud/project$ quarto publish quarto-pub index.qmd\n? Provider: › Quarto Pub\n? Authorize (Y/n) › Yes\nPlease authorize by opening this url: https://quartopub.com/authorize?id=......\n? Document name: › Use another name...\n? Publish with name: › nome-da-apresentacao\n\n[✓] Creating quarto-pub document\n[✓] Preparing to publish document\n[✓] Uploading files (complete)\n[✓] Deploying published document\n[✓] Published document: https://quartopub.com/sites/nome-usuario/nome-da-apresentacao\n[✓] Account site updated: https://nome-usuario.quarto.pub"
+  },
+  {
+    "objectID": "slide-quarto.html#vamos-praticar-2",
+    "href": "slide-quarto.html#vamos-praticar-2",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Vamos praticar!",
+    "text": "Vamos praticar!"
+  },
+  {
+    "objectID": "slide-quarto.html#usando-temas",
+    "href": "slide-quarto.html#usando-temas",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Usando temas",
+    "text": "Usando temas\n\nExistem alguns temas disponíveis para usar:\n\n---\nformat: revealjs\n---"
+  },
+  {
+    "objectID": "slide-quarto.html#usando-temas-1",
+    "href": "slide-quarto.html#usando-temas-1",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Usando temas",
+    "text": "Usando temas\n\nExistem alguns temas disponíveis para usar:\n\n---\nformat:\n  revealjs: \n    theme: moon\n---"
+  },
+  {
+    "objectID": "slide-quarto.html#temas-disponíveis",
+    "href": "slide-quarto.html#temas-disponíveis",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Temas disponíveis",
+    "text": "Temas disponíveis\n\n\n\nbeige\nblood\ndark\nleague\nmoon\n\n\n\nnight\nserif\nsimple\nsky\nsolarized\n\n\n\nTema padrão: default\n\nFonte: Documentação do Quarto"
+  },
+  {
+    "objectID": "slide-quarto.html#vamos-praticar-3",
+    "href": "slide-quarto.html#vamos-praticar-3",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Vamos praticar!",
+    "text": "Vamos praticar!"
+  },
+  {
+    "objectID": "slide-quarto.html#personalizando-o-estilo",
+    "href": "slide-quarto.html#personalizando-o-estilo",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Personalizando o estilo",
+    "text": "Personalizando o estilo\n---\nformat:\n  revealjs: \n    theme: moon\n---"
+  },
+  {
+    "objectID": "slide-quarto.html#personalizando-o-estilo-1",
+    "href": "slide-quarto.html#personalizando-o-estilo-1",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Personalizando o estilo",
+    "text": "Personalizando o estilo\n---\nformat:\n  revealjs: \n    theme: [default, custom.scss]\n---\nCrie um arquivo custom.scss para adicionar novas regras de estilo por lá.\n\nNesse arquivo teremos duas secões:\n\n/*-- scss:defaults --*/ - SASS variables\n/*-- scss:rules --*/ - regras em CSS"
+  },
+  {
+    "objectID": "slide-quarto.html#copie-o-código-de-exemplo-a-seguir",
+    "href": "slide-quarto.html#copie-o-código-de-exemplo-a-seguir",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Copie o código de exemplo a seguir:",
+    "text": "Copie o código de exemplo a seguir:\n/*-- scss:defaults --*/\n\n// importing fonts\n@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Lato&display=swap');\n\n// fonts\n$font-family-sans-serif: 'Lato', Tahoma, sans-serif !default;\n\n// headings\n$presentation-heading-font: 'Montserrat',  Tahoma, sans-serif  !default;\n$presentation-heading-color: #4c83b6 !default;\n\n\n$body-bg: #191919;\n$body-color: #fff;\n$link-color: #42affa;\n\n/*-- scss:rules --*/\n\n\n.slide-logo {\n  display: block !important;\n  position: fixed !important;\n  top: 0 !important;\n  right: 10px !important;\n  max-height: 15% !important;\n  height: 100% !important;\n  width: auto !important;\n  color: $body-color !important;\n}\n\n.slide-number, .reveal.has-logo .slide-number {\n  bottom: 10px !important;\n  right: 10px !important;\n  top: unset !important;\n  color: $body-color !important;\n}"
+  },
+  {
+    "objectID": "slide-quarto.html#vamos-praticar-4",
+    "href": "slide-quarto.html#vamos-praticar-4",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Vamos praticar!",
+    "text": "Vamos praticar!"
+  },
+  {
+    "objectID": "slide-quarto.html#onde-aprender-mais",
+    "href": "slide-quarto.html#onde-aprender-mais",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Onde aprender mais…",
+    "text": "Onde aprender mais…\n\nDocumentação do Quarto e a Galeria.\nNão falamos do Quarto Post em inglês por Alison Hill\nReproducible Authoring with Quarto  Apresentação em inglês por Mine Çetinkaya-Rundel\nConteúdos sobre o Quarto na RStudio Conf 2022\nWorkshop Get Started with Quarto\nAwesome Quarto\n\n\n\n\nSlides feitos por Beatriz Milz (@BeaMilz), com Quarto e Quarto R-Ladies Theme."
+  },
+  {
+    "objectID": "slide-quarto.html#faremos-mais-prática",
+    "href": "slide-quarto.html#faremos-mais-prática",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Faremos mais prática!",
+    "text": "Faremos mais prática!\n\n\nArte por Allison Horst"
+  },
+  {
+    "objectID": "slide-quarto.html#quarto-na-linha-de-comando",
+    "href": "slide-quarto.html#quarto-na-linha-de-comando",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Quarto na linha de comando",
+    "text": "Quarto na linha de comando\n\nO Quarto é um CLI: Command Line Interface - Interface de linha de comando.\nPodemos usar o Quarto no terminal."
+  },
+  {
+    "objectID": "slide-quarto.html#standing-on-the-shoulders-of-giants",
+    "href": "slide-quarto.html#standing-on-the-shoulders-of-giants",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Standing on the shoulders of giants",
+    "text": "Standing on the shoulders of giants\n\nhttps://jtrecenti.github.io/slides/docs/amostra2019/"
+  },
+  {
+    "objectID": "slide-quarto.html#apresentação",
+    "href": "slide-quarto.html#apresentação",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Apresentação",
+    "text": "Apresentação\n---\ntitle: \"Título\"\nformat: revealjs\neditor: visual\n---\n\nOs slides são separados considerando os títulos e subtítulos: # e ##.\nUse # para criar uma nova seção.\nUse ## para criar um novo slide."
+  },
+  {
+    "objectID": "slide-quarto.html#word",
+    "href": "slide-quarto.html#word",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "Word",
+    "text": "Word\n---\ntitle: \"Título\"\nformat: docx\neditor: visual\n---"
+  },
+  {
+    "objectID": "slide-quarto.html#pdf",
+    "href": "slide-quarto.html#pdf",
+    "title": "Conhecendo o Quarto: a nova geração do RMarkdown",
+    "section": "PDF",
+    "text": "PDF\n---\ntitle: \"Título\"\nformat: pdf\neditor: visual\n---"
+  }
+]
